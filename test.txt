@@ -1,4 +1,4 @@
-hello world
+hello world2
 add secong line
 add third line
 add fourth line
@@ -6,3 +6,4 @@ add fifth line
 add sixth line
 add seventh line
 welcome to study git lecture
+
